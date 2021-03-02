@@ -1,4 +1,4 @@
-package co.appbrewery.bmicalculator;
+package org.carloscarvalho.bmi_calculator_flutter;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
