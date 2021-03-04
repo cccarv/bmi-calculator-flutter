@@ -11,6 +11,35 @@ const kNumberTextStyle = TextStyle(
   color: Color(0xFFFEE5E0),
 );
 
+const kLargeButtonTextStyle = TextStyle(
+  fontSize: 25,
+  fontWeight: FontWeight.bold,
+  color: Colors.white,
+);
+
+const kTitleTextStyle = TextStyle(
+  fontSize: 50,
+  fontWeight: FontWeight.bold,
+  color: Colors.white,
+);
+
+const kResultTextStyle = TextStyle(
+  fontSize: 22,
+  fontWeight: FontWeight.bold,
+  color: Color(0xFF24D876),
+);
+
+const kBMITextStyle = TextStyle(
+  fontSize: 100,
+  fontWeight: FontWeight.bold,
+  color: Colors.white,
+);
+
+const kBodyTextStyle = TextStyle(
+  fontSize: 22,
+  color: Colors.white,
+);
+
 const kBottomContainerHeight = 80.0;
 const kActiveCardColour = Color(0xFF4f9dc9);
 const kInactiveCardColour = Color(0xFF4c8aad);
